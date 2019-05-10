@@ -1,7 +1,5 @@
 package nl.hu.v1wac.firstapp.webservices;
 
-import java.util.List;
-
 import javax.json.*;
 import javax.json.JsonArrayBuilder;
 import javax.json.JsonObjectBuilder;
